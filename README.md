@@ -93,11 +93,10 @@ When you run the application:
 ---
 
 ## 📷 Screenshots
-
-> (Optional) Include screenshots of your GUI or console menu here
 > ![Console Menu](screenshots/menu.png)
-![image](https://github.com/user-attachments/assets/ee1c98e4-1336-4b2c-8bd6-8228cb3f580e)
-
+![image](https://github.com/user-attachments/assets/e4f8d0c8-fe81-40db-8817-5b86acb95305)
+GUI SCREENSHOT:
+![image](https://github.com/user-attachments/assets/74801929-e41c-4f93-ad66-9794c7739c9b)
 
 This project is for academic use only. No commercial use is allowed without permission.
 
